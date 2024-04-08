@@ -1,0 +1,37 @@
+Trabajo de App Móviles
+
+
+Nombre : Juan Carlos Jara`
+`Curso : 3 Nivel` 
+`Materia:  Aplicaciones Móviles`
+`Tema : Resumen sobre React y Vite` 
+
+### React y Vite
+
+**React** es una biblioteca de JavaScript para construir interfaces de usuario, especialmente para aplicaciones de una sola página. Desarrollado por Facebook, React es conocido por su enfoque en la construcción de interfaces de usuario declarativas y componentes reutilizables.
+
+**Vite**, por otro lado, es una herramienta de compilación ultrarrápida para aplicaciones web modernas. Es particularmente popular entre los desarrolladores de React y Vue.js. Vite elimina la necesidad de una fase de construcción costosa y lenta, proporcionando una experiencia de desarrollo más rápida y fluida.
+
+### Teoría
+
+La teoría detrás de React se basa en el concepto de "componentes". Estos son bloques de construcción fundamentales que permiten a los desarrolladores construir interfaces de usuario compuestas y reutilizables. React utiliza un modelo de programación declarativo, lo que significa que los desarrolladores describen cómo debería ser una interfaz de usuario en función de su estado, y React se encarga de actualizar la interfaz de usuario para que coincida con ese estado.
+
+Vite, por otro lado, se enfoca en la eficiencia de la compilación y el desarrollo rápido. Utiliza un enfoque de "tiempo de ejecución" para la compilación, lo que significa que no necesita construir todo el proyecto de una vez. En su lugar, Vite compila módulos individualmente cuando son solicitados por primera vez, lo que reduce drásticamente el tiempo de compilación.
+
+### Reflexión
+
+El uso de React y Vite en conjunto puede proporcionar una experiencia de desarrollo excepcionalmente eficiente. React permite construir interfaces de usuario poderosas y reactivas, mientras que Vite garantiza que el ciclo de desarrollo sea rápido y fluido. Juntos, forman una combinación poderosa para la construcción de aplicaciones web modernas y receptivas.
+
+
+### Analogía
+
+Imagina que estás construyendo una casa. React sería como los planos y diseños detallados que te permiten construir la casa de manera estructurada y eficiente. Vite, por otro lado, sería como un equipo de construcción altamente eficiente que utiliza tecnologías y herramientas modernas para construir la casa de manera rápida y precisa.
+
+### Resumen
+
+React es una biblioteca de JavaScript para construir interfaces de usuario interactivas y reactivas, mientras que Vite es una herramienta de compilación ultrarrápida que se integra bien con React y otros marcos. Juntos, React y Vite permiten a los desarrolladores construir aplicaciones web modernas de manera eficiente y rápida, utilizando un enfoque declarativo y un ciclo de desarrollo ágil.
+
+Referencias Bibliográficas 
+
+1. Stefanov, S. (2016). _React: Up & Running_. O'Reilly Media.
+2. 1. Rajput, S. (2021). _Vite.js Quick Start Guide_. Packt Publishing
